@@ -99,7 +99,8 @@
 1. Оберіть складний побутовий прилад (пральна машина, мікрохвильовка, кавомашина, мультиварка) або ґаджет (смарт-годинник, фітнес-браслет).  
 2. Зробіть фотографію (або підберіть) панелі керування приладом.
 
-   
+   ![alt next](https://github.com/FocynStepan/University-Projects/blob/main/UI-UX-Design/Labs/Lab-01/assets/Picture1.jpg?raw=true)
+![alt next](https://github.com/FocynStepan/University-Projects/blob/main/UI-UX-Design/Labs/Lab-01/assets/Picture2.jpg?raw=true)
 
 Рис.1 Пральна машина SAMSUNG WW70FG3M05AWLF
 
@@ -124,7 +125,7 @@
 
 1. Розгляньте простий неелектронний інструмент (ложка, молоток, викрутка, канцелярський ніж).
 
-![][image1]
+![alt next](https://github.com/FocynStepan/University-Projects/blob/main/UI-UX-Design/Labs/Lab-01/assets/Picture3.jpg?raw=true)
 
 2. Опишіть його UI: матеріал, фактура, колір, зносостійкість.
 
