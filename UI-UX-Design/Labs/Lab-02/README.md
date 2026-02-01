@@ -70,6 +70,8 @@
 
 *Готував матеріал студент Фокін С.*
 
+![alt next](https://raw.githubusercontent.com/FocynStepan/University-Projects/main/UI-UX-Design/Labs/Lab-02/assets/Picture.png)
+
 | Роль | Етап(и) SDLC | Пояснення |
 | :---- | :---- | :---- |
 | **UX Writer** | Етап 3 (UX), 4 (UI) | Тексти мають бути продумані під час проєктування логіки, щоб користувач розумів навігацію. |
