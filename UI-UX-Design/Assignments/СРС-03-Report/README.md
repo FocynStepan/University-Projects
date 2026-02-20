@@ -18,7 +18,8 @@
 
 **3. Для чого потрібні вайрфрейми?**
 
-![alt next](https://github.com/FocynStepan/University-Projects/blob/main/UI-UX-Design/Assignments\СРС-03-Report\assets\Picture1.jpg?raw=true)
+![Picture 1](assets/Picture1.jpg)
+
 
 **Вайрфрейми (Wireframes)** — це "скелет" майбутнього інтерфейсу. Вони потрібні для:
 * Візуалізації структури сторінки та розташування елементів без відволікання на дизайн (кольори, картинки).
@@ -57,7 +58,7 @@ UX-дизайн та Agile мають спільну філософію — іт
 
 **3. Кейс "Double Diamond": Airbnb (Боротьба з дискримінацією)**
 
-![alt next](https://github.com/FocynStepan/University-Projects/blob/main/UI-UX-Design/Assignments\СРС-03-Report\assets\Picture2.jpg?raw=true)
+![Picture 2](assets/Picture2.jpg)
 
 Компанія Airbnb використала модель Double Diamond, щоб вирішити проблему упередженого ставлення хостів до гостей.
 
