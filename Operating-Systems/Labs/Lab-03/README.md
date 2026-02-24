@@ -94,6 +94,10 @@ alias mycal1='cal 2005'
 alias mycal2='cal 2004'
 alias mycal3='cal 2005'
 ```
+<p align="center">
+  <img src="assets/Pictures1.png" alt="Pictures1.png" width="600">
+   <img src="assets/Pictures2.png" alt="Pictures2.png" width="600">
+</p>
 
 #### 2.2. Робота з функціями:
 
@@ -112,7 +116,9 @@ echo "We create such variables as \$var_name1, \$var_name2, \$var_name3, which s
 
 echo "We create such Aliases as mycal1, mycal2, mycal3, which can show our calendars: $(mycal1), $(mycal2), $(mycal3)"
 ```
-
+<p align="center">
+  <img src="assets/Pictures3.png" alt="Pictures1.png" width="600">
+</p>
 #### 2.4. Робота з інструкціями керування:
 
 Завдання 2.1 та 2.2 можна виконати через інструкції керування (Control Statements), такі як крапка з комою (`;`). Це дозволяє виконати декілька команд в одному рядку без створення функції:
