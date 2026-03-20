@@ -178,7 +178,6 @@ stepan@linux:~$ tar -xzvf compressed.tar.gz
 | `cat myfile \| grep student \| wc -l` | Читає файл, відфільтровує рядки зі словом student, рахує кількість цих рядків. | Подвійний конвеєр (Pipeline). |
 
 <div align="center">
-
 ![Рисунок 5 — Конвеєри grep та sort](assets/Picture5.png)
 
 *Рисунок 5 — Використання конвеєрів: пошук користувача `root` у `/etc/passwd` командою `grep`, сортування файлу та перегляд результату командою `head`*
