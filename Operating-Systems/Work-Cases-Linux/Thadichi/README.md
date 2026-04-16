@@ -134,7 +134,7 @@
 
 <div align="center">  
 
-![Рисунок 5 — Процес заміщення за алгоритмом LRU](assets/Picture.png)
+![Рисунок 5 — Процес заміщення за алгоритмом LRU](assets/Pictur e.png)
 
 *Рисунок 5 — Процес заміщення сторінок за алгоритмом LRU* </div>
 <div align="center">
